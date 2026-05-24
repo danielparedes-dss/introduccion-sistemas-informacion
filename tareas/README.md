@@ -5,3 +5,4 @@ Listado de tareas realizadas en la asignatura Introducción a los Sistemas de la
 ## Contenido
 
 1. [Análisis del Dataset del Titanic](./analisis-dataset-titanic)
+2. [Creación y Visualización de KPIs]
