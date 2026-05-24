@@ -9,7 +9,7 @@ Este proyecto contiene un análisis básico del dataset Titanic utilizando Pytho
 - Cantidad de pasajeros por género
 ## Archivo principal
 
-[Ver notebook del análisis](./tareas/analisis-dataset-titanic/01-analisis-dataset-titanic-paredes-daniel.ipynb)
+[Ver notebook del análisis](./01-analisis-dataset-titanic-paredes-daniel.ipynb)
 
 
 ## Autor
