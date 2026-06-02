@@ -5,4 +5,4 @@ Repositorio académico de la asignatura.
 ## Contenido
 [Tareas](./tareas)
 
-[Proyecto Bimestral](./proyecto_bimestral)
+[Proyecto Bimestral](./proyecto%20bimestral)
