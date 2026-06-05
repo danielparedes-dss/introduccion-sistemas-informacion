@@ -6,3 +6,5 @@ Repositorio académico de la asignatura.
 [Tareas](./tareas)
 
 [Proyecto Bimestral](./proyecto%20bimestral)
+
+[Exámen Bimestral](./examen%20bimestral)
