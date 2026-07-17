@@ -7,4 +7,4 @@ Repositorio académico de la asignatura.
 
 [Proyecto Bimestral](./proyecto%20bimestral)
 
-[Exámen Bimestral](./examen%20bimestral)
+[Exámenes Bimestrales](./examen%20bimestral)
