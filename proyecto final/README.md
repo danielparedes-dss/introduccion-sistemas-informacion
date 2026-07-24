@@ -18,7 +18,7 @@
 
 ---
 
-Sistema de gestión para minimarket desarrollado en **Python puro** (solo biblioteca estándar), que integra un módulo de **Punto de Venta (POS)**, un **ERP financiero simplificado** y un módulo de **SCM (inventario y proveedores)**, con una **interfaz gráfica en Tkinter**, un **dashboard gerencial** y **segmentación de clientes RFM** (Recencia, Frecuencia, Monto).
+Sistema de gestión para minimarket desarrollado en Python, que integra un módulo de **Punto de Venta (POS)**, un **ERP financiero simplificado** y un módulo de **SCM (inventario y proveedores)**, con una **interfaz gráfica en Tkinter**, un **dashboard gerencial** y **segmentación de clientes RFM** (Recencia, Frecuencia, Monto).
 
 Este proyecto simula, a pequeña escala, la integración de tres sistemas empresariales típicos (POS, ERP y SCM) que en la vida real suelen estar separados, mostrando cómo una venta puede disparar automáticamente movimientos financieros y ajustes de inventario, como parte del proceso de **transformación digital empresarial** de un minimarket local.
 
@@ -32,11 +32,7 @@ Este proyecto simula, a pequeña escala, la integración de tres sistemas empres
 - [Estructura del proyecto](#-estructura-del-proyecto)
 - [Instalación y ejecución](#-instalación-y-ejecución)
 - [Uso básico](#-uso-básico)
-- [Pruebas](#-pruebas)
 - [Datos](#-datos)
-- [Roadmap / mejoras futuras](#-roadmap--mejoras-futuras)
-- [Autores](#-autores)
-- [Licencia](#-licencia)
 
 ---
 
@@ -164,52 +160,8 @@ Al iniciar por primera vez, el sistema crea automáticamente los archivos CSV ne
 
 ---
 
-## 🧪 Pruebas
-
-El proyecto incluye una prueba de integración que valida el flujo completo POS → SCM → ERP usando una carpeta temporal (no afecta los datos reales):
-
-```bash
-python prueba_integracion.py
-```
-
-También puedes ejecutar un resumen rápido del dataset histórico:
-
-```bash
-python analisis_dataset.py
-```
-
----
-
 ## 📊 Datos
 
 Los datos de ejemplo y el histórico (`datos/historico_supermarket.csv`) provienen de un dataset académico público de ventas de supermercado, usado únicamente con fines de práctica y demostración dentro del curso ISID223. La tasa de impuesto definida en `config.py` es simulada y **no representa una regla tributaria oficial**.
 
 ---
-
-## 🗺️ Roadmap / mejoras futuras
-
-- [ ] Exportar reportes del dashboard a PDF o Excel
-- [ ] Agregar autenticación de usuarios/roles
-- [ ] Migrar la persistencia de CSV a una base de datos (SQLite)
-- [ ] Agregar más pruebas unitarias por módulo
-- [ ] Empaquetar como ejecutable (PyInstaller)
-
----
-
-## 👥 Autores
-
-Proyecto desarrollado para la asignatura **ISID223 – Introducción a los Sistemas de Información**, Facultad de Ingeniería de Sistemas, Escuela Politécnica Nacional.
-
-| Integrante | Carrera |
-|---|---|
-| Edwin Daniel Paredes | Ingeniería en Ciencia de Datos e Inteligencia Artificial |
-| Jordy Sebastián Tipatuña | Ingeniería en Ciencia de Datos e Inteligencia Artificial |
-
-**Grupo / Paralelo:** GR1CD
-**Docente:** Ing. Iván Carrera
-
----
-
-## 📄 Licencia
-
-Este proyecto fue desarrollado con fines **académicos**, como Proyecto Final de la asignatura ISID223 – Introducción a los Sistemas de Información (Escuela Politécnica Nacional). Su uso está orientado a fines educativos y de evaluación del curso.
