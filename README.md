@@ -3,8 +3,12 @@
 Repositorio académico de la asignatura.
 
 ## Contenido
-[Tareas](./tareas)
+[Exámenes Bimestrales](./examen%20bimestral)
 
 [Proyecto Bimestral](./proyecto%20bimestral)
 
-[Exámenes Bimestrales](./examen%20bimestral)
+[Proyecto final](./proyecto%20final)
+
+[Tareas](./tareas)
+
+
