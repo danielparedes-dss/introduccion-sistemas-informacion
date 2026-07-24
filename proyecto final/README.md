@@ -11,7 +11,7 @@
 > 
 > **Integrantes:**
 > - Edwin Daniel Paredes
-> - Jordy Sebastián Tipatuña
+> - Jordy Sebastián Tipantuña
 >
 > **Grupo / Paralelo:** GR1CD
 > **Docente:** Ing. Iván Carrera
