@@ -26,6 +26,8 @@ Este proyecto simula, a pequeña escala, la integración de tres sistemas empres
 
 ## 📋 Tabla de contenidos
 
+
+- [📄 Ver informe en PDF](Informe_Final_QuickMarket.pdf)
 - [Características](#-características)
 - [Arquitectura general](#-arquitectura-general)
 - [Requisitos](#-requisitos)
