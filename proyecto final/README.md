@@ -8,6 +8,7 @@
 > Sistema integrado de ventas, ERP, SCM y análisis RFM para un minimarket local
 >
 > **Carrera:** Ingeniería en Ciencia de Datos e Inteligencia Artificial
+> 
 > **Integrantes:**
 > - Edwin Daniel Paredes
 > - Jordy Sebastián Tipatuña
