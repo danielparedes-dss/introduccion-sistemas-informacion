@@ -53,7 +53,7 @@ Este proyecto simula, a pequeña escala, la integración de tres sistemas empres
 
 ## 🏗️ Arquitectura general
 
-![Arquitectura del sistema](docs/imagenes/arquitectura.png)
+![Arquitectura del sistema](arquitectura.png)
 
 Cada venta registrada en el POS dispara automáticamente:
 1. El descuento de stock en el módulo SCM (y una orden de compra si el stock queda bajo el mínimo).
